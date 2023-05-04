@@ -6,4 +6,20 @@
   <version>1.0-SNAPSHOT</version>
   <name>Archetype - maven-exercises</name>
   <url>http://maven.apache.org</url>
+
+<!--  ******* DEPENDENCIES ********-->
+  <dependencies>
+
+<!--  *********** COMMON LANG **********-->
+  <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
+  <dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-lang3</artifactId>
+    <version>3.12.0</version>
+  </dependency>
+
+<!--  ************************************8-->
+  </dependencies>
+
+
 </project>
